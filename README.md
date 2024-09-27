@@ -1,4 +1,4 @@
-# Using ArrayLists to simulate a Dictionary
+# Using ArrayLists to simulate a dictionary
 
 **Overview**
 
